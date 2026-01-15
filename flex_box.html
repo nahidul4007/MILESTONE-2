@@ -1,0 +1,61 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>from</title>
+    <style>
+        nav {
+            display: flex;
+            justify-content: space-between;
+        }
+        nav a {
+            text-decoration: none;
+            color: black;
+
+        }
+        .from_con {
+            height:90vh ;
+            display: flex;
+            justify-content: center;
+            /* border: 1px solid cadetblue; */
+            align-items: center;
+        }
+        .login_form {
+            display: flex;
+            flex-direction: column;
+            /* border: 2px solid green; */
+            width: 50%;
+        }
+        .login_form input{
+            margin: 10px;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div>
+            <a href="">Home</a>
+            <a href="">profile</a>
+            <a href="">Blog</a>
+            <a href="">about</a>
+        </div>
+        <a href="">Login</a>
+    </nav>
+    <section class="from_con">
+        <form class="login_form">
+            <h3>Please Login</h3>
+            <input type="email" required name="" id="" placeholder="Your Email">
+            <input type="password" required name="" id="" placeholder="Your password">
+            <input type="submit" value="Login">
+
+        </form>
+    </section>
+</body>
+</html>

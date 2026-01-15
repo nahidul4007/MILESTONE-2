@@ -1,0 +1,10 @@
+standard - px (fixed)
+
+
+relative - % , em , rem , vh , vw , vmax , vmin ( responsive )
+
+
+css grid layout . 
+
+
+
