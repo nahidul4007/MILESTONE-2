@@ -39,6 +39,52 @@ console.log (isrich1)
 
 
 
+// 
+
+var my_current_home_addres ="ardeno";
+
+console.log(my_current_home_addres)
+
+
+
+
+
+//  NEW SECTION 
+
+
+var orangeprice =20;
+var chocolage =0.5;
+var mangso = parseInt("200");
+
+
+console.log(chocolage+orangeprice)
+
+
+
+
+
+
+//  last . 
+
+var price =33;
+price += 10;
+console.log(price)
+
+
+
+
+
+var first ="mubarak";
+var secnd ="tobarak";
+
+console.log ("-40"-5)
+
+
+
+
+
+
+
 
 
 
